@@ -16,7 +16,7 @@ const  WorkExperience = () => {
     {
       title: "Software Development Intern",
       company: "IIT ROPAR",
-      date: "May 2023 - July 2023",
+      date: "May 2025 - July 2025",
       description: "Built secure role-based authorization and student’s profile in instructor's view, Developed a prerequisite generation engine using Gemini API, later migrated to Groq AI for scalability,Manually tested the features and handled production deployment with 99%+ uptime on Vercel and Render"
     },
     {
