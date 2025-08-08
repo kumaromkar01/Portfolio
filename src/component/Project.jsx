@@ -69,7 +69,7 @@ const Project = () => {
       description: "This is a fun project where machine learning model based on logistic regression is used to predict the chances of getting campus placement for cse and ece branch.",
       technologies: ["Streamlit","Python","Logistic Regression"],
       imageUrl: "\PP.png",
-      demoUrl: "isplacedpredictor.streamlit.app/",
+      demoUrl: "https://isplacedpredictor.streamlit.app/",
       sourceUrl: "https://github.com/kumaromkar01/PlacementPredictor"
     },
     {
